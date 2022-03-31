@@ -34,7 +34,7 @@ button {
     border: 5px solid black;
     width: 25%;
     outline: none;
-    border-radius: 4px;
+    border-radius: 1px;
 }
 
 .all-clear,
