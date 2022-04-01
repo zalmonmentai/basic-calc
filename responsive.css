@@ -1,0 +1,17 @@
+@media (max-width: 880px) {
+    .calculator {
+        width: 100%;
+        padding: 0;
+    }
+
+    .calculator-screen {
+        height: 150px;
+        font-size: 44px;
+    }
+
+    button {
+        font-size: 35px;
+        height: 100px;
+    }
+
+}
