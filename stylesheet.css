@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(0, 14, 70);
+}
+
 .calculator {
     text-align: center;
     margin: 0 auto;
